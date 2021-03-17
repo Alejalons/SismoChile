@@ -1,0 +1,11 @@
+.page-item{
+    .page-link {
+        cursor: pointer;
+        border-radius: 30px;
+        border: 1px solid rgb(147, 185, 197);
+        &:hover{
+            color: #fff;
+            background-color: #1B9AAA;
+        }
+    }
+}
